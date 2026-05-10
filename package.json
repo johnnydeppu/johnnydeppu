@@ -1,0 +1,13 @@
+{
+  "name": "soccer-tactics-infographic-gas",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "clasp:create": "clasp create --title \"サッカー戦術4コマインフォグラフィック生成\" --type standalone --rootDir src",
+    "clasp:push": "clasp push",
+    "clasp:open": "clasp open"
+  },
+  "devDependencies": {
+    "@google/clasp": "^2.4.2"
+  }
+}
